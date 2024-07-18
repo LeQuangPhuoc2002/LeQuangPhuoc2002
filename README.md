@@ -6,13 +6,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I enjoy exploring new technologies and developing software solutions and quick hacks.\
+🎓 &nbsp;I have graduated with a degree in Software Engineering from Hue University of Science.\
+🌱 &nbsp;Currently, I am focusing on deepening my knowledge of frontend and backend frameworks to expand my skills.\
+✉️ &nbsp;Feel free to email me at quangphuoctacoo@gmail.com! I will respond as soon as possible.\
+📄 &nbsp;Please check out my [resume](https://github.com/LeQuangPhuoc2002) for more details about me, or visit my [LinkedIn](https://www.linkedin.com/in/quangphuoc/). I'm always open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
