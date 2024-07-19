@@ -1,4 +1,4 @@
-![Quang Phuoc Banner](https://github.com/LeQuangPhuoc2002/LeQuangPhuoc2002/blob/ed5ced4bb96e0debb516163ba67e155637a359f0/assets/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20final.png)
+![Quang Phuoc Banner](https://github.com/LeQuangPhuoc2002/LeQuangPhuoc2002/blob/bf34e8dee5bb0b234e2325257083f3a5cb4ec502/assets/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Phuoc</h2>
 
