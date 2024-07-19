@@ -13,6 +13,9 @@
 📄 &nbsp;Please check out my [resume](https://github.com/LeQuangPhuoc2002) for more details about me, or visit my [LinkedIn](https://www.linkedin.com/in/quangphuoc/). I'm always open to feedback and suggestions!
 
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
