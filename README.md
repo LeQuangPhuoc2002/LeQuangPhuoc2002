@@ -59,10 +59,10 @@
   <a href="https://github.com/LeQuangPhuoc2002" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:quangphuoctacoo@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
   <a href="https://www.youtube.com/@phuoclequang7518" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube"/>
+  </a>
+  <a href="mailto:quangphuoctacoo@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
