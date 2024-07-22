@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/quangphuoc/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://github.com/LeQuangPhuoc2002" alt="Github">
+  <a href="https://lequangphuoc2002.github.io/QuangPhuocCV/" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/@phuoclequang7518" target="_blank">
@@ -64,5 +64,8 @@
   </a>
   <a href="mailto:quangphuoctacoo@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+  <a href="https://lequangphuoc2002.github.io/QuangPhuocCV/" alt="Email">
+    <img src="https://img.icons8.com/?size=100&id=23877&format=png&color=000000"/>
   </a>
 </p>
