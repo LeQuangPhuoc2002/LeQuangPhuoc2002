@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/quangphuoc/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://lequangphuoc2002.github.io/QuangPhuocCV/" alt="GitHub">
+  <a href="https://github.com/LeQuangPhuoc2002" alt="GitHub">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/@phuoclequang7518" target="_blank">
