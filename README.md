@@ -1,4 +1,4 @@
-![Quang Phuoc Banner](https://github.com/LeQuangPhuoc2002/LeQuangPhuoc2002/blob/dbf62b01fbd3a57b27cbed32a387e7cf6b079852/assets/Blue.png)
+![Quang Phuoc Banner](https://raw.githubusercontent.com/LeQuangPhuoc2002/LeQuangPhuoc2002/blob/dbf62b01fbd3a57b27cbed32a387e7cf6b079852/assets/Blue.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Phuoc</h2>
 
