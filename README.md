@@ -52,7 +52,7 @@
 
 ### 📫 &nbsp;Connect with Me
 
-[![GitHub](https://icons8.com/icon/12599/github) GitHub: [https://github.com/baco0611](https://github.com/baco0611)
+[![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000) GitHub: [https://github.com/baco0611](https://github.com/baco0611)
 
 💡 &nbsp;GitHub: [https://github.com/baco0611](https://github.com/baco0611)\
 🎓 &nbsp;I have graduated with a degree in Software Engineering from Hue University of Science.\
