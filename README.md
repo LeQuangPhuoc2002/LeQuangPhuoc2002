@@ -52,6 +52,10 @@
 
 ### 📫 &nbsp;Connect with Me
 
+<img src="https://img.icons8.com/?size=100&id=jShwZ2RCyPSO&format=png&color=000000" alt="Phone" width="20" height="20"/> Phone: [0987214100](tel:0987214100)
+
+<img src="https://img.icons8.com/?size=100&id=117566&format=png&color=000000" alt="Phone" width="20" height="20"/> Skype: [live:.cid.92e470ef3ae60d04](live:.cid.92e470ef3ae60d04)
+
 <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="20" height="20"/> GitHub: [https://github.com/LeQuangPhuoc2002](https://github.com/LeQuangPhuoc2002)
 
 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"/> LinkedIn: [https://www.linkedin.com/in/quangphuoc/](https://www.linkedin.com/in/quangphuoc/)
