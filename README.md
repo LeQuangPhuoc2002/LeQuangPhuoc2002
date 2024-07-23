@@ -64,4 +64,4 @@
 
 <img src="https://img.icons8.com/fluent/48/000000/resume.png" alt="CV" width="20" height="20"/> CV: [https://lequangphuoc2002.github.io/QuangPhuocCV/](https://lequangphuoc2002.github.io/QuangPhuocCV/)
 
-<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="20" height="20"/> YouTube: [https://www.youtube.com/@phuoclequang7518](https://www.youtube.com/@phuoclequang7518)
+<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" width="20" height="20"/> YouTube: [https://www.youtube.com/@quangphuoctacoo](https://www.youtube.com/@quangphuoctacoo)
