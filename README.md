@@ -16,11 +16,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/LeQuangPhuoc2002">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeQuangPhuoc2002&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
 ### 📫 &nbsp;Connect with Me
 
