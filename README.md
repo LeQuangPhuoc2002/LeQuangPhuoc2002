@@ -8,4 +8,3 @@
 
 <img src="https://img.icons8.com/fluent/48/000000/mailing.png" alt="Email" width="20" height="20"/> Email: [quangphuoctacoo@gmail.com](mailto:quangphuoctacoo@gmail.com)
 
-<img src="https://img.icons8.com/fluent/48/000000/resume.png" alt="CV" width="20" height="20"/> CV: [https://quang-phuoc-cv.vercel.app/](https://quang-phuoc-cv.vercel.app/)
